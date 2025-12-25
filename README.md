@@ -38,6 +38,8 @@ in your IDE’s toolbar or run it directly from the terminal:
   .\gradlew.bat :composeApp:run
   ```
 
+![image alt](https://github.com/HabobB6/Habob-Notes/blob/master/tmp2.png)
+
 ### Build and Run iOS Application
 
 To build and run the development version of the iOS app, use the run configuration from the run widget
